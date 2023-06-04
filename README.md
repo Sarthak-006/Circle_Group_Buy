@@ -1,34 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The transaction can be made using this circle_group_buy app.
 
-## Getting Started
+Here we can make a bulk order transaction.
 
-First, run the development server:
+we have satisfied all the conditions needed in this transaction to happen and made sure that there can be a limit of 5 minutes before the bulk order can be took place in the window.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+you can find the live link at https://circlegroupbuy.sarthakton6.repl.co/
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+It is a next js project.
+In this project we have implemented the Circle Api and used Postman Api to call the application required in this project.
+user can connect to the metamask wallet by clicking the connect wallet button.
+we can buy items as a bulk order in this app.
+Here we have one major account and other sellers account that act as retailers.
 
-## Learn More
+if you want to run this project in your own directory you can follow the steps given below
 
-To learn more about Next.js, take a look at the following resources:
+step 1 - clone this github link
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+step2 - npm install 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+(make sure that the version is stable version of node)
 
-## Deploy on Vercel
+step3 - npm run dev
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+and you can create this project for your own self.
